@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Mont-Regular";
+    src: url('assets/font/Mont-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "Mont-SemiBold";
+    src: url('assets/font/Mont-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "Mont-Bold";
+    src: url('assets/font/Mont-Bold.ttf') format('truetype');
+}
+
+.gradient-bg-1 {
+    background: linear-gradient(264.42deg, #9A4DCB -0.95%, #011F8B 134.81%);
+    background-size: 100% 80%;
+}
